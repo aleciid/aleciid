@@ -22,7 +22,7 @@
 <p> 🌱 I’m currently learning coding in Three.js and C# for Unity Engine </p>
 <p> 💞️ I’m looking to collaborate on Artistic & Cultural Experiences </p>
 <p> 📫 Take a look at his portfolio here <a href="http://alsebu.com/">alsebu.com</a>
-    or contact him through <a href=
+    or contact me through <a href=
     "https://www.linkedin.com/in/alesegura/">LinkedIn</a>.</p>
 
 <!---
