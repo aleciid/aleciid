@@ -17,7 +17,7 @@
          \   `\  \
           `-._/._/
 -->
-<p> 👋 Hi, I’m  ALe Segura, Interaction Designer & 3D Artist, @aleciid </p>
+<p> 👋 Hi, I’m  Ale Segura, Interaction Designer & 3D Artist, @aleciid </p>
 <p> 👀 I’m interested in blending physical and digital experiences </p>
 <p> 🌱 I’m currently learning coding in Three.js and C# for Unity Engine </p>
 <p> 💞️ I’m looking to collaborate on Artistic & Cultural Experiences </p>
